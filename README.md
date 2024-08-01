@@ -3,8 +3,10 @@
  this project creates, mints and deploys an nft to the polygon Amoy testnet and also on open sea
 
  contract address `0xFCF8B5d42E2bF611dBeDbd3f445D649BB19874D9`
+ 
+ [Contract on polygonscan](https://amoy.polygonscan.com/address/0xfcf8b5d42e2bf611dbedbd3f445d649bb19874d9)
 
- [open sea link]("https://testnets.opensea.io/collection/elon-musk-15")
+ [NFT opensea link](https://testnets.opensea.io/collection/elon-musk-15)
 
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
