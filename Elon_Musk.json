@@ -1,0 +1,23 @@
+{
+    "name": "Elon Musk",
+    "symbol": "ELON",
+    "description": "Elon Musk sef na Pluto boy, yes yes. Nah Tesla Kid😂😂",
+    "image": "https://ipfs.io/ipfs/QmcedURboXZb6swZa5nYh6N57W6z5ksQT5QA8DYezU4CLN",
+    "attributes": [
+        {
+            "trait_type": "Zodiac", "value": "Cancer"
+        },
+        {
+            "trait_type": "Height", "value": "6'1"
+        },
+        {
+            "trait_type": "Net-worth", "value": "240.7 billion USD"
+        },
+        {
+            "trait_type": "Companies", "value": "X (Twitter), Tesla, SpaceX, NeuraLink"
+        },
+        {
+            "trait_type": "Personality Type", "value": "INTJ"
+        }
+    ]
+}
